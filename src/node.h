@@ -1,5 +1,7 @@
 #pragma once
-
+#include <bits/stdc++.h>
+#include <iostream>
+using namespace std;
 /* Implement functions to support the struct Node including 
  * 1. Print: display the value of Node. (Part 1.1)
  * 2. CreateNode: create the new node and return its pointer (Part 1.2)
